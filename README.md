@@ -8,7 +8,7 @@ The objective is to evaluate the impact of introducing a minimum buffer between 
 ## Dashboard Preview
 
 <p align="center">
-  <img src="screenshots/dashboard_overview.png" width="900">
+  <img src="screenshots/Dashboard_overview.png" width="900">
 </p>
 
 ## Key Findings
