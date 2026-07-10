@@ -5,6 +5,9 @@
 Getaround experiences rental conflicts when vehicles are returned late.
 The objective is to evaluate the impact of introducing a minimum buffer between rentals.
 
+This dashboard was developed using the Getaround dataset originally employed in a pricing optimization project.
+While the original study focused on evaluating buffer strategies and revenue trade-offs, this dashboard concentrates on operational monitoring, delay patterns, and KPI analysis from a Business Intelligence perspective.
+
 ## Dashboard Preview
 
 <p align="center">
